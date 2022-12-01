@@ -1,6 +1,7 @@
 const allowedOrigins = [
-    'https://localhost:3000',
+    'http://localhost:3000',
     'https://www.dandrepairshop.com',
-    'https://dandrepairshop.com'
+    'https://dandrepairshop.com',
+    'https://www.google.com/'
 ]
 module.exports = allowedOrigins;
